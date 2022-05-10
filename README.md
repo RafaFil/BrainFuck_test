@@ -8,4 +8,4 @@ some brainfuck test
 
 ## USEFUL REFERENCES:
 
-[BrainFuck Programming tutorial] (https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+[BrainFuck Programming tutorial](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
